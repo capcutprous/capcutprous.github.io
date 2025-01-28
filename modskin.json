@@ -1,9 +1,9 @@
 {
-    "url": "https://muakey.top/",
-    "start": 1,
+    "url": "null",
+    "start": 0,
     "threads": 33,
     "delay": 0.002,
-    "textnoti": "d",
+    "textnoti": "Lib này đã được mở.",
     "linknoti": "",
     "exit": 0,
     "req": "post/get"
