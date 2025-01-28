@@ -3,7 +3,7 @@
     "start": 0,
     "threads": 33,
     "delay": 0.002,
-    "textnoti": "Lib này đã được mở.",
+    "textnoti": "",
     "linknoti": "",
     "exit": 0,
     "req": "post/get"
